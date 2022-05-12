@@ -2,4 +2,5 @@
 
 ## bubble sort
 ## insertion sort
-
+## selection sort
+## quick sort
